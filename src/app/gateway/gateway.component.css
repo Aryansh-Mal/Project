@@ -1,0 +1,20 @@
+mat-grid-tile {
+   
+    margin-top: 40%;
+   
+    background-color: #848ca0;
+  }
+  .gridStyleing{
+    margin-top: 40px;
+    margin-left:40px ;
+    margin-right:40px ;
+  }
+  .imageStyle{
+    padding-left: -30%;
+    position: absolute;
+    left: 40px;
+  }
+  .box2{
+    text-align:left ;
+    
+  }
